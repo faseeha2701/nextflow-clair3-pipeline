@@ -1,0 +1,26 @@
+# Nextflow
+work/
+.nextflow/
+.nextflow*
+
+# Pipeline outputs
+results/
+
+# Input data
+data/
+
+# Container caches
+.apptainer_cache/
+.singularity_cache/
+
+# Clair3 models
+models/
+
+# Logs
+*.log
+*.trace
+*.html
+
+# Temporary files
+*.tmp
+*.temp
